@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Pytorch
+# Sentiment-Analysis-Tensorflow
 
 ## Sentiment-Analysis for IMDB dataset
  
